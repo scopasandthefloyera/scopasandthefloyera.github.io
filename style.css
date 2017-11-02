@@ -2,6 +2,7 @@ html {
   background-color: black;
   color: #b20303;
   text-align: center;
+  font-family: 'Russo One', sans-serif;
 }
 
 button {
@@ -10,4 +11,14 @@ button {
   background-color: black;
   color: #b20303;
   box-shadow: 9px 10px 5px 0px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 50px;
 }
