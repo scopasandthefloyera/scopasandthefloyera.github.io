@@ -16,3 +16,7 @@ button {
 #audio {
   display: none;
 }
+
+a {
+  text-align: right;
+}
