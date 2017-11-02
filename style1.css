@@ -1,0 +1,18 @@
+html {
+  background-color: black;
+  color: #b20303;
+  font-family: 'Russo One', sans-serif;
+}
+
+button {
+  border: 2px solid #b20303;
+  font-size: 25px;
+  background-color: black;
+  color: #b20303;
+  box-shadow: 9px 10px 5px 0px;
+  font-family: 'Russo One', sans-serif;
+}
+
+#audio {
+  display: none;
+}
