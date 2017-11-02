@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Scopas and the Battle of the Floyera</title>
+    <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+    <link rel="stylesheet" href="style1.css">
+  </head>
+  <body>
+    <section>
+      <p></p>
+    </section>
+    <a href="page3.html" align="right"><button>Next</button></a>
+  </body>
+</html>
