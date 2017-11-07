@@ -27,3 +27,8 @@ h2 {
 #audio {
   display: none;
 }
+
+p {
+  font-size: 30px;
+  font-family: 'Lobster Two', cursive;
+}
