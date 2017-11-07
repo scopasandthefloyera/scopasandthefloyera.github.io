@@ -18,3 +18,12 @@ button {
 #audio {
   display: none;
 }
+
+p {
+  font-size: 30px;
+  font-family: 'Lobster Two', cursive;
+}
+
+h1 {
+  text-align: center;
+ }
